@@ -22,10 +22,10 @@ This will be either in a form of **IPS/IDS** or an **Intelligent WAF (Web App Fi
         <small><b>Y0uk1tsun3</b></small>
       </td>
       <td align="center">
-        <a href="https://github.com/features/copilot">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
+        <a href="https://github.com/jyax">
+        <img src="https://avatars.githubusercontent.com/u/86649500" width="100px;">
         </a><br/>
-        <small><b>GitHub username</b></small>
+        <small><b>jyax</b></small>
       </td>
       <td align="center">
         <a href="https://github.com/features/copilot">
@@ -57,3 +57,4 @@ This will be either in a form of **IPS/IDS** or an **Intelligent WAF (Web App Fi
 
 <h2>Who We Are</h2>
 Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover
+<p>Jacob Yax | Computer Science | Junior</p>
