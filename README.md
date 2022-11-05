@@ -22,10 +22,10 @@ This will be either in a form of **IPS/IDS** or an **Intelligent WAF (Web App Fi
         <small><b>Y0uk1tsun3</b></small>
       </td>
       <td align="center">
-        <a href="https://github.com/features/copilot">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
+        <a href="https://github.com/felixliang50779">
+        <img src="https://avatars.githubusercontent.com/u/112431235" width="100px;">
         </a><br/>
-        <small><b>GitHub username</b></small>
+        <small><b>felixliang50779</b></small>
       </td>
       <td align="center">
         <a href="https://github.com/features/copilot">
