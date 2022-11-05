@@ -45,18 +45,6 @@ This will be either in a form of **IPS/IDS** or an **Intelligent WAF (Web App Fi
         </a><br/>
         <small><b>GitHub username</b></small>
       </td>
-      <td align="center">
-        <a href="https://github.com/features/copilot">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
-        </a><br/>
-        <small><b>GitHub username</b></small>
-      </td>
-      <td align="center">
-        <a href="https://github.com/features/copilot">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
-        </a><br/>
-        <small><b>GitHub username</b></small>
-      </td>
     </tr>
   </tbody>
 </table>
