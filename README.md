@@ -61,7 +61,12 @@ Then, remember to have all the requirements installed, for this run the code bel
 ```
 python3 -m pip install -r requirements.txt
 ```
-## 2. Running
+## 2. Prepare your dataset or use the pre-built model
+Take a look on the notebooks. The data preparation one will help you create your own dataset and the ML WAF one will help you understand the theory and create your own model!
+
+If you just want to run the application, unpack the zip file and use the pre-generated pkl file :).
+
+## 3. Running
 Check in the utils.py for the port chosen, after that just run the program with flask.
 ```
 flask --app diagnosis_app run
