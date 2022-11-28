@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/github/commit-activity/m/MSU-AI/AI-firewall?color=%23ccff00">
 </p>
 
+<p>
+  <img src="Animation.gif">
+</p>
+
 The purpose of our project is to develop a **Web Application Security Service** for the AI Club and any other person that wishes to use. 
 
 In the journey of creating this security framework, we saw the importance of the URLs for WAFs, and so we decided to focus our efforts in it. 
