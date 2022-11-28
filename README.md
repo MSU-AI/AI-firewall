@@ -52,12 +52,12 @@ Prahmod | major | year | interests<br>
 Satya | major | year | interests<br>
 <p></p>
 
-# How to set the App
+# How to set up the App
 ## 1. First, clone the repository
 ```
 git clone https://github.com/MSU-AI/AI-Firewall
 ```
-Then, remember to have all the requirements installed, for this run the bellow code.
+Then, remember to have all the requirements installed, for this run the code bellow.
 ```
 python3 -m pip install -r requirements.txt
 ```
@@ -71,5 +71,4 @@ If it does not work, use python to run it.
 ```
 python3 diagnosis_app.py
 ```
-
 
