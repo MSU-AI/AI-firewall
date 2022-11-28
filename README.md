@@ -51,5 +51,5 @@ This will be either in a form of **IPS/IDS** or an **Intelligent WAF (Web App Fi
 
 <h2>Who We Are</h2>
 Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover
-<p>Jacob Yax | Computer Science | Junior</p>
+
 Pramod Prahlada | Computer Engineering | Junior | Interested in Machine Learning and AI
