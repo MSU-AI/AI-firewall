@@ -27,28 +27,25 @@ This will be either in a form of **IPS/IDS** or an **Intelligent WAF (Web App Fi
         </a><br/>
         <small><b>felixliang50779</b></small>
       </td>
-      <td align="cemter">
-        <a href="https://github.com/jyax">
-        <img src="https://avatars.githubusercontent.com/u/86649500" width="100px;">
+      <td align="center">
+        <a href="https://github.com/satyabyreddy">
+        <img src="https://avatars.githubusercontent.com/u/102766717" width="100px;">
         </a><br/>
-        <small><b>jyax</b></small>
+        <small><b>satyabyreddy</b></small>
       </td>
       <td align="center">
-        <a href="https://github.com/features/copilot">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
+        <a href="https://github.com/pprahlada">
+        <img src="https://avatars.githubusercontent.com/u/93998803" width="100px;">
         </a><br/>
-        <small><b>GitHub username</b></small>
-      </td>
-      <td align="center">
-        <a href="https://github.com/features/copilot">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
-        </a><br/>
-        <small><b>GitHub username</b></small>
+        <small><b>pprahlada</b></small>
       </td>
     </tr>
   </tbody>
 </table>
 
 <h2>Who We Are</h2>
-Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover
-<p>Jacob Yax | Computer Science | Junior</p>
+Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover<br>
+Felix | major | year | interests<br>
+Prahmod | major | year | interests<br>
+Satya | major | year | interests<br>
+
