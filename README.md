@@ -16,8 +16,6 @@ In the journey of creating this security framework, we saw the importance of the
 
 From our studies of bad HTTP requests to server-side with common attacks such as LFIs, RFIs, and XSS, we noticed that the URLs comprised the main way of identifying the same. This also happened for client-side attacks, related to phishing and spam. So, we decided to focus on their identification and categorization.
 
-![url_scanner](https://user-images.githubusercontent.com/95195316/204367436-4107ba52-2f29-4dc9-ab3a-48af7bc67308.gif)
-
 <h2>Github Contributors</h2>
 
 <table>
