@@ -69,11 +69,11 @@ If you just want to run the application, unpack the zip file and use the pre-gen
 ## 3. Running
 Check in the utils.py for the port chosen, after that just run the program with flask.
 ```
-flask --app diagnosis_app run
+flask --app URL_scanner run
 ```
 
 If it does not work, use python to run it.
 ```
-python3 diagnosis_app.py
+python3 URL_scanner.py
 ```
 
