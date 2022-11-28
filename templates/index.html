@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>The URL Scanner</title>
+      <link rel="stylesheet" type="text/css" href="/static/styles/style.css">
+    </head>
+
+    <body>
+      <div class="h1">
+        <h1>Please input the website url for a scan</h1>
+      </div>
+
+      <div class="form__group field">
+        <form method="POST">
+          <input type="input" class="form__field" placeholder="Name" name="text" id='name' required />
+          <label for="name" class="form__label">URL</label>
+        </form>
+      </div>
+
+      <div class="predict">
+        <p>{% if prediction %}
+        The URL is of the {{prediction}} category.
+        {% endif %}
+        </p>
+      </div>
+      
+    </body>
+</html>
