@@ -1,4 +1,4 @@
-<h1>The AI Firewall</h1>
+<h1>The URL Scanner</h1>
 <p>
   <img src="https://img.shields.io/github/license/MSU-AI/AI-firewall?color=%237CFC00">
   <img src="https://img.shields.io/github/contributors/MSU-AI/AI-firewall?color=%23ccff00">
@@ -8,7 +8,9 @@
 
 The purpose of our project is to develop a **Web Application Security Service** for the AI Club and any other person that wishes to use. 
 
-This will be either in a form of **IPS/IDS** or an **Intelligent WAF (Web App Firewall)**, Combining Computer Security and Artificial Intelligence into this cutting-edge technology.
+In the journey of creating this security framework, we saw the importance of the URLs for WAFs, and so we decided to focus our efforts in it. 
+
+From our studies of bad HTTP requests to server-side with common attacks such as LFIs, RFIs, and XSS, we noticed that the URLs comprised the main way of identifying the same. This also happened for client-side attacks, related to phishing and spam. So, we decided to focus on their identification and categorization.
 
 <h2>Github Contributors</h2>
 
@@ -48,4 +50,26 @@ Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover<br>
 Felix | major | year | interests<br>
 Prahmod | major | year | interests<br>
 Satya | major | year | interests<br>
+<p></p>
+
+# How to set the App
+## 1. First, clone the repository
+```
+git clone https://github.com/MSU-AI/AI-Firewall
+```
+Then, remember to have all the requirements installed, for this run the bellow code.
+```
+python3 -m pip install -r requirements.txt
+```
+## 2. Running
+Check in the utils.py for the port chosen, after that just run the program with flask.
+```
+flask --app diagnosis_app run
+```
+
+If it does not work, use python to run it.
+```
+python3 diagnosis_app.py
+```
+
 
