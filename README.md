@@ -49,7 +49,7 @@ From our studies of bad HTTP requests to server-side with common attacks such as
 Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover<br>
 Felix | major | year | interests<br>
 Pramod | major | year | interests<br>
-Satya | major | year | interests<br>
+Satya Byreddy | Computer Science | Junior | Machine Learning Enthusiast<br>
 <p></p>
 
 # How to set up the App
