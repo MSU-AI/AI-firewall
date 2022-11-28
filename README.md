@@ -52,7 +52,7 @@ From our studies of bad HTTP requests to server-side with common attacks such as
 <h2>Who We Are</h2>
 Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover<br>
 Felix | Computer Science | Junior | Aspiring Algorithm Engineer<br>
-Pramod | major | year | interests<br>
+Pramod Prahlada | Computer Engineering | Junior | Interested in Machine Learning and AI<br>
 Satya Byreddy | Computer Science | Junior | Machine Learning Enthusiast<br>
 <p></p>
 
@@ -80,4 +80,3 @@ If it does not work, use python to run it.
 ```
 python3 URL_scanner.py
 ```
-
