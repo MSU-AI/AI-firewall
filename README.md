@@ -47,7 +47,7 @@ From our studies of bad HTTP requests to server-side with common attacks such as
 
 <h2>Who We Are</h2>
 Felipe Marques Allevato | Computer Science | Sophomore | Cybersecurity Lover<br>
-Felix | major | year | interests<br>
+Felix | Computer Science | Junior | Aspiring Algorithm Engineer<br>
 Pramod | major | year | interests<br>
 Satya Byreddy | Computer Science | Junior | Machine Learning Enthusiast<br>
 <p></p>
